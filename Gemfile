@@ -28,6 +28,7 @@ gem 'jbuilder', '~> 2.5'
 gem "camaleon_cms",  '>= 2.4.3'
 gem 'activemodel-serializers-xml', git: 'https://github.com/rails/activemodel-serializers-xml'
 gem 'draper', github: 'audionerd/draper', branch: 'rails5'
+gem 'cama_image_lightbox'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
